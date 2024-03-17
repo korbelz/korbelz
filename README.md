@@ -45,8 +45,6 @@
 
 ###
 
-<br clear="both">
-
 ![Snake animation](https://raw.githubusercontent.com/korbelz/korbelz/output/github-contribution-grid-snake-dark.svg)
 
 ###
