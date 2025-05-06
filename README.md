@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Korbelz, IT support wizard and developer.</h2>
+<h2 align="left">Hi 👋! My name is Korbelz, University student.</h2>
 
 ###
 
